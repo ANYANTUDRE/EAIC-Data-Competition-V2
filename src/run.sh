@@ -1,0 +1,10 @@
+python train_mutual_info.py --fold 0 --model cat
+python train_mutual_info.py --fold 1 --model cat
+python train_mutual_info.py --fold 2 --model cat
+python train_mutual_info.py --fold 3 --model cat
+python train_mutual_info.py --fold 4 --model cat
+python train_mutual_info.py --fold 5 --model cat
+python train_mutual_info.py --fold 6 --model cat
+python train_mutual_info.py --fold 7 --model cat
+python train_mutual_info.py --fold 8 --model cat
+python train_mutual_info.py --fold 9 --model cat
